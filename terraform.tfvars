@@ -1,5 +1,5 @@
 # GCP Settings
-project_id          = "dtc-attendee230" # Enter your project ID here.
+project_id          = "skilled-booking-278518" # Enter your project ID here.
 container_registry  = "gcr.io"
 internal_image_name = "jayrajendran123/market-app-int:V8"
 
