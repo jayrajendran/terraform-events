@@ -1,7 +1,8 @@
 # GCP Settings
 project_id          = "skilled-booking-278518" # Enter your project ID here.
 container_registry  = "gcr.io"
-internal_image_name = "jayrajendran123/market-app-int:V8"
+
+
 
 # The image used by the deployments will be a URL created from 
 # combining the above vars. For Example: 
